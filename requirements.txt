@@ -1,0 +1,11 @@
+fastapi
+langchain-community
+langchain-google-genai
+langchain-qdrant
+langchain-text-splitters
+openai
+pypdf
+python-dotenv
+redis
+rq
+uvicorn
