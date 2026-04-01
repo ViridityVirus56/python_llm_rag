@@ -9,6 +9,7 @@ env/
 
 # Environment variables (Crucial for LLM projects!)
 .env
+**/.env
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
